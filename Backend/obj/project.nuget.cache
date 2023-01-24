@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FppGGHb1wHZ9om6JVoP7CWEz4yXhfPo6sB4xrMraN3frln7LqKP0GmJfFrMfMDFeenZw+idm6PjTZjgWLw/v5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\BackToTech\\VoiceChatBot\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\Bogdan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bogdan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bogdan\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
